@@ -192,7 +192,7 @@
     colnames(final_output)[10] <- "Gcase_Zscore"
     write.csv(final_output,file="sex1.csv",quote = FALSE)
 
-## Linear regression models used to test for association between _LRRK2_ variants and GCase activity in the PPMI cohorts
+## Linear regression models used to test for association between _LRRK2_ variants and GCase activity in the PPMI cohort
 
     covar <- read.csv("PPMI_covar_final.csv", header = T, sep=",")
     assoc <- function(x,n,covar) {
