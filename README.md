@@ -1,7 +1,7 @@
 # In this project we used various lineal regression models to test for association between _LRRK2_ variants and GCase activity in the Columbia and PPMI cohorts.
-1. In the Columbia cohort we adjusted for age, sex, PD status, _GBA_ status and ethnicity
-2. In the PPMI cohort we adjusted for age, sex, PD status, _GBA_ status, ethnicity and white blood cells count
-3. For both cohorts we repeated analysis for	 1)PD cases+ controls 2)PD cases 3) Controls 4) Excluding carriers of LRRK2 p.G2019S 5) Excluding carriers of GBA variants and LRRK2 p.G2019S variant 6) Analyses stratifying the cohorts by sex
+1. In the Columbia cohort, we adjusted for age, sex, PD status, _GBA_ status and ethnicity
+2. In the PPMI cohort, we adjusted for age, sex, PD status, _GBA_ status, ethnicity and white blood cells count
+3. For both cohorts, we repeated analysis for	 1)PD cases+ controls 2)PD cases 3) Controls 4) Excluding carriers of LRRK2 p.G2019S 5) Excluding carriers of GBA variants and LRRK2 p.G2019S variant 6) Analyses stratifying the cohorts by sex
 
 ## Linear regression models used to test for association between _LRRK2_ variants and GCase activity in the Columbia
 
